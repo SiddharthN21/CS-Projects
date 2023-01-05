@@ -19,3 +19,4 @@ public class InvalidGuessException extends Exception
         super(message);
     }
 }
+ 
