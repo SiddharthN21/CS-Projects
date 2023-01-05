@@ -1,0 +1,7 @@
+Seed: 32
+apple
+anger
+break
+while
+false
+union

@@ -1,0 +1,10 @@
+Seed: 999
+class
+repeat
+apple
+anger
+break
+marker
+while
+false
+super
