@@ -427,5 +427,5 @@ public class HockeyScores
 
         team1StandardGoals = team1TotalGoals - team1PowerPlayGoals;
         team2StandardGoals = team2TotalGoals - team2PowerPlayGoals;
-    }
+    } 
 }
