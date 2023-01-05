@@ -1,0 +1,4 @@
+hello there
+nice to meet you!
+how are you doing today?
+Fundamental areas of computer science Computer science is the study of computation, automation, and information. Computer science spans theoretical disciplines to practical disciplines. Computer science is generally considered an area of academic research and distinct from computer programming.
