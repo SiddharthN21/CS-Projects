@@ -24,5 +24,10 @@ The image below shows the process of removing a car from the records:
 The image below shows the process of viewing the details of a particular car type:
 
 ![image](https://github.com/SiddharthN21/CS-Projects/assets/112213674/03693067-5105-46dc-be0f-1427c28a281a)
+### Data Analysis
+* This module allows the administrator to see how long each parking spot in the parking lot is used. The output is displayed as a line graph with the x-axis as the parking spot number (from 1 to 10) and y-axis as the number of days (from 1 to 10).
 
+The image below shows the process viewing the graph of parking spots used in the lot:
+
+![image](https://github.com/SiddharthN21/CS-Projects/assets/112213674/42b3ce6b-62f5-4953-afb9-a2f933798753)
 
