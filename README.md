@@ -12,3 +12,10 @@ Computer Science Projects made using Python and Java.
 The image below shows the process of adding a new car to the records:
   
 ![image](https://github.com/SiddharthN21/CS-Projects/assets/112213674/253eca9a-e57b-4fa1-85a7-78f1cb4491df)
+### Remove Car
+* This module allows the administrator to remove the required car by entering the designated parking spot (from 1 to 10).
+
+The image below shows the process of removing a car from the records:
+
+![image](https://github.com/SiddharthN21/CS-Projects/assets/112213674/289b87e0-f170-41a8-b5a9-4f0f32c04f7b)
+
