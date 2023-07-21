@@ -18,4 +18,11 @@ The image below shows the process of adding a new car to the records:
 The image below shows the process of removing a car from the records:
 
 ![image](https://github.com/SiddharthN21/CS-Projects/assets/112213674/289b87e0-f170-41a8-b5a9-4f0f32c04f7b)
+### Car Type Details
+* This module allows the administrator to view the details of each car of a particular car type by entering the required car type. The output will be displayed in python as a data frame containing the details of the car.
+
+The image below shows the process of viewing the details of a particular car type:
+
+![image](https://github.com/SiddharthN21/CS-Projects/assets/112213674/03693067-5105-46dc-be0f-1427c28a281a)
+
 
