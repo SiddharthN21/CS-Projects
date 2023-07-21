@@ -5,7 +5,8 @@ Computer Science Projects made using Python and Java.
 ## Python Personal Project - Car Parking Management System
 * Through this project, I created a car parking system that stores records about parking spots available for cars by using Python as the front-end application and MySQL as the back-end database.
 * Although the code provided is only for 10 parking spots, it is for demonstration purposes and the value can be increased to thousands of records as well.
-* There are 4 main modules provided in this system - Park Car, Remove Car, Car Type Details, and Data Analysis
+* There are 4 main modules provided in this system - Park Car, Remove Car, Car Type Details, and Data Analysis.
+* The back-end database on MySQL utilizes one table to store the data on each parking spot
 ### Park Car
 * This module allows the administrator to enter the details of the car to park it at the designated parking spot. If the number of days or parking spot is less than 1 or greater than 10 and if a duplicate spot is entered, an error will be given. If all the constraints are met, the car will be parked at the designated parking spot.
 
@@ -30,4 +31,17 @@ The image below shows the process of viewing the details of a particular car typ
 The image below shows the process viewing the graph of parking spots used in the lot:
 
 ![image](https://github.com/SiddharthN21/CS-Projects/assets/112213674/42b3ce6b-62f5-4953-afb9-a2f933798753)
+
+### MySQL Tables
+* The database used is called parking which has one table called car.
+* The parking_spot field holds the primary key for the table and none of the fields can hold NULL values.
+* The data is stored and retrieved using the MySQL Connector API and SQL Alchemy Library.
+
+The images below show the table withing the parking database:
+
+![image](https://github.com/SiddharthN21/CS-Projects/assets/112213674/ea73d6e0-3999-400f-8af0-0bde0a2366ff)
+
+![image](https://github.com/SiddharthN21/CS-Projects/assets/112213674/5bc2a054-2436-4e64-a32c-dd24fa80f1ac)
+
+
 
