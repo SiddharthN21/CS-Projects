@@ -1,0 +1,12 @@
+USERNAME: snadgaun
+OPTIMIZATIONS USED
+1. Implemented strcmp in lookup and update
+2. Implemented strdup in update
+3. Removed lines that unnecessarily restored register values before function calls
+4. Reduced memory accesses to %r14 in lookup
+5. Removed the usage of strcmp when a new element is inserted in update
+
+Lookup-bench  TIME s.mmm
+hash-c 2.153s
+hash-asm 1.598s
+hash-op 1.344s
