@@ -1,5 +1,5 @@
 # CS-Projects
-**Computer Science Projects that I made using Python, Java, and C.**
+**Computer Science Projects that I made using Python, Java, C, and X86 Assembly Language.**
 
 
 ## Python Personal Project - Car Parking Management System
